@@ -37,7 +37,7 @@ const POSITION_THRESHOLD = 1 / 3;
 /**
  * The threshold (in pixels) to start the gesture action.
  */
-const RESPOND_THRESHOLD = 250;
+const RESPOND_THRESHOLD = 175;
 
 /**
  * The distance from the edge of the navigator which gesture response can start for.

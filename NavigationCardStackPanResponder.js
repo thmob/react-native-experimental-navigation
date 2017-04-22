@@ -32,12 +32,12 @@ const ANIMATION_DURATION = 250;
  * For instance, `1 / 3` means that moving greater than 1 / 3 of the width of
  * the view will navigate.
  */
-const POSITION_THRESHOLD = 1 / 2;
+const POSITION_THRESHOLD = 1 / 3;
 
 /**
  * The threshold (in pixels) to start the gesture action.
  */
-const RESPOND_THRESHOLD = 300;
+const RESPOND_THRESHOLD = 250;
 
 /**
  * The distance from the edge of the navigator which gesture response can start for.
